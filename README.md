@@ -12,16 +12,19 @@
 开发环境
 
 操作系统: [Windows]
-工具版本:
-Python: [3.13.3]
-Node.js: [22.16.0]
-npm: [10.9.2]
-Git: [2.45.2.windows.1]
 
-dir
+工具版本:
+- Python: [3.13.3]
+- Node.js: [22.16.0]
+- npm: [10.9.2]
+- Git: [2.45.2.windows.1]
+
+
 项目结构
+```
 road2_my_website/
 ├── frontend/ # Vue 前端项目
 ├── backend/ # Django 后端项目
 ├── docs/ # 开发文档，从项目初始化开始
 └── README.md # 项目说明
+```
